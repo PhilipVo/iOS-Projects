@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9440F6101D904C0300E2CE98"
+               BlueprintIdentifier = "9440F64A1D904E0C00E2CE98"
                BuildableName = "StarWarsEncyclopedia.app"
                BlueprintName = "StarWarsEncyclopedia"
                ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9440F6241D904C0300E2CE98"
+               BlueprintIdentifier = "9440F65E1D904E0C00E2CE98"
                BuildableName = "StarWarsEncyclopediaTests.xctest"
                BlueprintName = "StarWarsEncyclopediaTests"
                ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9440F62F1D904C0300E2CE98"
+               BlueprintIdentifier = "9440F6691D904E0C00E2CE98"
                BuildableName = "StarWarsEncyclopediaUITests.xctest"
                BlueprintName = "StarWarsEncyclopediaUITests"
                ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9440F6101D904C0300E2CE98"
+            BlueprintIdentifier = "9440F64A1D904E0C00E2CE98"
             BuildableName = "StarWarsEncyclopedia.app"
             BlueprintName = "StarWarsEncyclopedia"
             ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9440F6101D904C0300E2CE98"
+            BlueprintIdentifier = "9440F64A1D904E0C00E2CE98"
             BuildableName = "StarWarsEncyclopedia.app"
             BlueprintName = "StarWarsEncyclopedia"
             ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9440F6101D904C0300E2CE98"
+            BlueprintIdentifier = "9440F64A1D904E0C00E2CE98"
             BuildableName = "StarWarsEncyclopedia.app"
             BlueprintName = "StarWarsEncyclopedia"
             ReferencedContainer = "container:StarWarsEncyclopedia.xcodeproj">
